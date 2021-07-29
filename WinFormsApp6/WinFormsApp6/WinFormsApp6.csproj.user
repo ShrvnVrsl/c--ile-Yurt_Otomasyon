@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAnaFormm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBolumler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGelirIstatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGiderGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGiderListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNotEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrDuzenlee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmYoneticiAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmYoneticiIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrOdemeYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
